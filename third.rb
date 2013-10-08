@@ -15,3 +15,5 @@ class Third
 	obj=Third.new
 	obj.third()
 end
+
+# Use regx expression to make sure user only enters a string add an exceptions rest is all good 
