@@ -15,3 +15,8 @@ def second()
 end 
 
 second()
+
+# Please Consider all type of datatypes for possible squaring as in ruby we can "f"*2 gives "ff"
+# And don't limit it to integer consider floats as well and while inputing the element check for exceptions 
+# if you convert 2.3.to_i it gives 2 which will not help in case of floats. 
+# Display results in an array style [Element1,2,3..so on]
